@@ -18,6 +18,6 @@ Saya seorang pengembang web yang bersemangat. Saat ini saya sedang **aktif menge
 
 * LinkedIn: [https://www.linkedin.com/in/dzikri-raihan-6963442a8](https://www.linkedin.com/in/dzikri-raihan-6963442a8) 
 * Email: dzikrijokowi@gmail.com
-* GitHub: [https://github.com/NamaUsernameKamu](https://github.com/NamaUsernameKamu) 
+* GitHub: [https://github.com/NamaUsernameKamu](https://github.com/dzikri007) 
 ---
 _Dibuat dengan ❤️ oleh Dzikri_
